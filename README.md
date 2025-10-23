@@ -1,8 +1,8 @@
-# Application de Médias Sociaux React
+# Réseau Social Complet en React
 
 ## Aperçu
 
-Ce projet est une application web de médias sociaux inspirée de LinkedIn, appelée **Travelsdin**. L'application permet aux utilisateurs de créer des publications, d'aimer, de commenter et d'interagir avec d'autres utilisateurs, en se concentrant sur la fourniture d'une interface utilisateur moderne et interactive à des fins de réseautage social.
+Ce projet est une application web de médias sociaux inspirée de LinkedIn. L'application permet aux utilisateurs de créer des publications, d'aimer, de commenter et d'interagir avec d'autres utilisateurs, en se concentrant sur la fourniture d'une interface utilisateur moderne et interactive à des fins de réseautage social.
 
 
 Dépôt Backend : [Backend du Réseau Social](https://github.com/benalgodev/Social-Network-Backend)
@@ -116,4 +116,3 @@ Si vous avez des questions ou des suggestions, n'hésitez pas à contacter le ma
 - **Email** : benedictionmulemba@gmail.com
 - **GitHub** : [https://github.com/benalgodev](https://github.com/benalgodev)
 
-Nous attendons avec impatience vos retours et contributions pour rendre **Travelsdin** encore meilleur !
